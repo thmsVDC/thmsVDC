@@ -35,15 +35,13 @@ Feel free to explore my work and contribute if you're up for it! 🚀
 🔗 You can find me on:
 
 - **[LinkedIn](https://www.linkedin.com/in/seu-usuario)**
-- **[GitHub](https://github.com/thmsVDC)**
-- **[Twitter](https://twitter.com/seu-usuario)**
 
 ---
 
 ### Skills & Tools 🛠️
 
 - **Languages**: Python, JavaScript, C++, SQL, and more!
-- **Frameworks & Libraries**: Flask, React, Node.js, and more!
+- **Frameworks & Libraries**: Flask, React, and more!
 - **Tools**: Git, Postman, Playwright and more!
 
 ---
