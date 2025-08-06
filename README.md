@@ -6,7 +6,8 @@
 
 🎓 I'm currently studying **Software Engineering** at the **National Institute of Telecommunications (Inatel)**, diving into various areas of software development like programming, system architecture, and quality assurance.
 
-💼 I work as a **QA Tester** at **Huawei**, where I make sure our products are top-notch. My main focus is on automated testing, agile practices, and delivering the best product possible.
+💼 I worked for **1 year as a QA Tester at Huawei**, focusing on automated testing, agile practices, and product reliability.  
+🚀 I'm currently working at **LEVTY** as a **Software Engineer Trainee**, where I automate processes and contribute to the development of internal tools and systems.
 
 ---
 
