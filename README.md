@@ -35,7 +35,7 @@ Feel free to explore my work and contribute if you're up for it! 🚀
 
 🔗 You can find me on:
 
-- **[LinkedIn](https://www.linkedin.com/in/seu-usuario)**
+- **[LinkedIn](https://www.linkedin.com/in/thomas-victor/)**
 
 ---
 
