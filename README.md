@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9ca46b6b-e567-431a-95f9-9c817bff2465" alt="typewriter" width="120" />
-
-# Thomas Victor Dias Carvalho
+![typewriter](https://github.com/user-attachments/assets/34533f98-faf6-4be2-9370-f5fdb70e3e94)
 
 **Software Engineering Student at Inatel · QA Tester · Software Engineer Trainee at LEVTY**
 
