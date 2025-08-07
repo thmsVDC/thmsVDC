@@ -1,4 +1,6 @@
-![typewriter](https://github.com/user-attachments/assets/34533f98-faf6-4be2-9370-f5fdb70e3e94)
+<img src="https://github.com/user-attachments/assets/34533f98-faf6-4be2-9370-f5fdb70e3e94" alt="typewriter" width="100"/>
+
+# Thomas Victor Dias Carvalho
 
 **Software Engineering Student at Inatel · QA Tester · Software Engineer Trainee at LEVTY**
 
@@ -27,34 +29,28 @@ Welcome to my GitHub profile! I'm **Thomas**, a passionate Software Engineering 
 ---
 
 ## 🛠️ Skills & Tools
-
-### 💻 Knowledge
 <p>
-  <a href="https://git-scm.com/doc" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/></a>
-  <a href="https://www.python.org/doc/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/></a>
-  <a href="https://cplusplus.com/doc/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/></a>
-  <br>
-  <a href="https://flask.palletsprojects.com/en/latest/" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30"/></a>
-  <br>
-  <a href="https://learning.postman.com/docs/" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30"/></a>
-  <a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="30"/></a>
-  <br>
-  <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30"/></a>
-  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30"/></a>
-  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30"/></a>
+  <a href="https://git-scm.com/doc" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></a>
+  <a href="https://www.python.org/doc/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></a>
+  <a href="https://cplusplus.com/doc/" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></a>
 </p>
 
-### ⚙️ Frameworks & Libraries
-![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+### ⚙️ Frameworks & Tools
+<p>
+  <a href="https://flask.palletsprojects.com/en/latest/" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/></a>
+  <a href="https://learning.postman.com/docs/" title="Postman"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/></a>
+  <a href="https://playwright.dev/docs/intro" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30"/></a>
+</p>
 
-### 🧪 Tools & Testing
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)
-![Playwright](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg)
+### 🗄️ Databases
+<p>
+  <a href="https://dev.mysql.com/doc/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></a>
+  <a href="https://www.postgresql.org/docs/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/></a>
+  <a href="https://www.mongodb.com/docs/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/></a>
+</p>
 
 ---
 
