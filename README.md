@@ -1,50 +1,84 @@
-# Hey There! 👋
+<h1 align="center">Thomas Victor Dias Carvalho</h1>
+<p align="center"><i>Software Engineering Student at Inatel · QA Tester · Software Engineer Trainee at LEVTY</i></p>
 
-## Welcome to my GitHub profile!
-
-### About Me
-
-🎓 I'm currently studying **Software Engineering** at the **National Institute of Telecommunications (Inatel)**, diving into various areas of software development like programming, system architecture, and quality assurance.
-
-💼 I worked for **1 year as a QA Tester at Huawei**, focusing on automated testing, agile practices, and product reliability.  
-🚀 I'm currently working at **LEVTY** as a **Software Engineer Trainee**, where I automate processes and contribute to the development of internal tools and systems.
-
----
-
-### What can you find here?
-
-In this repo, you'll find projects related to:
-
-- Software development and mobile apps.
-- Test automation and software quality control.
-- My academic journey and personal projects.
-
-Feel free to explore my work and contribute if you're up for it! 🚀
+<p align="center">
+  <a href="https://github.com/thmsVDC" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/thomas-victor/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-### GitHub Stats & Languages
+### 👋 Hey there!
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thmsVDC&layout=donut-vertical)](https://github.com/thmsVDC/github-readme-stats)
-
-![Thomas Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thmsVDC&show_icons=true&theme=gruvbox)
+Welcome to my GitHub profile! I'm **Thomas**, a passionate Software Engineering student from Brazil, exploring the world of software development, testing, and automation.
 
 ---
 
-### Let's Connect!
+### 🚀 About Me
 
-🔗 You can find me on:
+- 🎓 I'm currently studying **Software Engineering** at **Inatel (National Institute of Telecommunications)**.  
+- 🧪 Worked for **1 year at Huawei** as a **QA Tester**, focusing on **automated testing**, **agile practices**, and **product reliability**.  
+- 💼 Currently working at **LEVTY** as a **Software Engineer Trainee**, building internal tools and automating processes.
 
-- **[LinkedIn](https://www.linkedin.com/in/thomas-victor/)**
-
----
-
-### Skills & Tools 🛠️
-
-- **Languages**: Python, JavaScript, C++, SQL, and more!
-- **Frameworks & Libraries**: Flask, React, and more!
-- **Tools**: Git, Postman, Playwright and more!
+I’m particularly interested in:
+- Clean architecture, scalable systems, and modern software practices.
+- Quality assurance and end-to-end testing.
+- Writing clean, modular, and maintainable code.
 
 ---
 
-Thanks for checking out my profile! Hit me up if you want to collaborate or just chat! 🚀
+### 🛠️ Skills & Tools
+
+#### 💻 Languages & Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" title="SQL"/>
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React"/>
+</p>
+
+#### 🔧 Tools & Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" title="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="30" title="Playwright"/>
+</p>
+
+---
+
+### 📚 What you'll find here
+
+- Academic and personal projects.
+- Software development experiments (APIs, backend, fullstack).
+- Test automation and QA tools.
+- Ongoing learning journeys.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thmsVDC&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmsVDC&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomas-victor/)  
+- 📬 Reach out for collaborations, internships, or just a tech talk!
+
+---
+
+<p align="center">"Programming is not just about writing code. It's about solving problems, designing systems, and thinking in patterns."</p>
