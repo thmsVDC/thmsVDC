@@ -1,6 +1,6 @@
-<div>
-  ![typewriter](https://github.com/user-attachments/assets/9ca46b6b-e567-431a-95f9-9c817bff2465)
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ca46b6b-e567-431a-95f9-9c817bff2465" alt="typewriter"/>
+</p>
 
 <p align="center"><i>Software Engineering Student at Inatel · QA Tester · Software Engineer Trainee at LEVTY</i></p>
 
