@@ -1,4 +1,5 @@
-<h1 align="center">Thomas Victor Dias Carvalho</h1>
+![typewriter](https://github.com/user-attachments/assets/57797ec0-3aec-466b-b91c-a118a4533165)
+
 <p align="center"><i>Software Engineering Student at Inatel · QA Tester · Software Engineer Trainee at LEVTY</i></p>
 
 <p align="center">
