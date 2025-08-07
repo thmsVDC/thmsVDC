@@ -31,13 +31,11 @@ Welcome to my GitHub profile! I'm **Thomas**, a passionate Software Engineering 
 <p>
   <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Git" title="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="NPM" title="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-3773A2?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" title="css" src="https://img.shields.io/badge/-CSS-3773A2?style=flat-square&logo=css&logoColor=white" />
   <img alt="cplusplus" title="cplusplus" src="https://img.shields.io/badge/-C++-004482?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
