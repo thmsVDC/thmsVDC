@@ -2,7 +2,6 @@
 
 **Software Engineering Student at Inatel · QA Tester · Software Engineer Trainee at LEVTY**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thmsVDC)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-victor/)
 
 ---
@@ -37,24 +36,24 @@ Welcome to my GitHub profile! I'm **Thomas**, a passionate Software Engineering 
   <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
-  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
+  <img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-3773A2?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="cplusplus" title="cplusplus" src="https://img.shields.io/badge/-C++-004482?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" width="30"/>
+  <img alt="flask" title="flask" src="https://img.shields.io/badge/-Flask-3773A2?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="postman" title="postman" src="https://img.shields.io/badge/-Postman-F37036?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="playwirght" title="playwright" src="https://img.shields.io/badge/-Playwright-2FAD33?style=flat-square&logo=playwright&logoColor=#E2574C" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="30"/>
+  <img alt="mysql" title="mysql" src="https://img.shields.io/badge/-MySQL-00618A?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="postgresql" title="postgresql" src="https://img.shields.io/badge/-PostgreSQL-00618A?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="mongodb" title="mongodb" src="https://img.shields.io/badge/-MongoDB-3F9433?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="elasticsearch" title="elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-00618A?style=flat-square&logo=elasticsearch&logoColor=white" />
 </p>
 
 ---
