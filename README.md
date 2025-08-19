@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I'm **Thomas**, a passionate Software Engineering 
 ### ⚙️ Frameworks & Tools
 <p>
   <img alt="flask" title="flask" src="https://img.shields.io/badge/-Flask-3773A2?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="fastapi" title="fastapi" src="https://img.shields.io/badge/-FastAPI-3773A2?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="postman" title="postman" src="https://img.shields.io/badge/-Postman-F37036?style=flat-square&logo=postman&logoColor=white" />
   <img alt="playwirght" title="playwright" src="https://img.shields.io/badge/-Playwright-2FAD33?style=flat-square&logo=playwright&logoColor=#E2574C" />
 </p>
